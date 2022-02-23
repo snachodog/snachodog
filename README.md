@@ -43,6 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Steve Dogiakos is playing Destiny 2 on Stadia](https://www.youtube.com/watch?v=wRQ-i0JAm-M)
+- [Celebration of Life for Peter Dogiakos | $10,000 Donation to the Buehler Enabling Garden](https://www.youtube.com/watch?v=i4doUgS9vuQ)
+- [Fortnite Season 4!](https://www.youtube.com/watch?v=LsIFZRIlSXE)
+- [Hit the Top 5 in Fortnite and the GAME CRASHED](https://www.youtube.com/watch?v=-Ee3Y3NwKTQ)
+- [Ice Dungeon and JIFs and Smorgasbords | A Link to the Past Randomized - Episode 21](https://www.youtube.com/watch?v=oKdGZJxvBW4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/snachodog)
