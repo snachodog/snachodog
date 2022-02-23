@@ -57,6 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
+- [BNSF Update](https://dogiakos.com/bnsf-update/)
+- [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
+- [Choteau Acantha: Main Street Montana Announcement](https://dogiakos.com/acantha-main-street-montana-announcement/)
+- [KRTV Teton Pass Ski Resort Grant Story](https://dogiakos.com/krtv-teton-pass-grant/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dogiakos.com)
