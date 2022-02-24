@@ -9,6 +9,9 @@
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/snachodog.snachodog-theme?label=snachodog%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=snachodog.snachodog-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 --->
+## Currently listening to
+[![Spotify](https://novatorem-kohl-tau.vercel.app
+/api/spotify)](https://open.spotify.com/user/snachodog)
 
 ## I'm a Husband, Father, Scouter, and Perpetual Volunteer
 - `insert a bulleted list of cool things about me and what I am up to`
