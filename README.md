@@ -24,7 +24,7 @@
 --->
 
 ### Connect with me:
-`list of places you can find me with really cool images from my website`
+* `insert list of places you can find me with really cool images from my website`
 <!---
 [![website](./img/globe-light.svg)](https://dogiakos.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://dogiakos.com#gh-dark-mode-only)
