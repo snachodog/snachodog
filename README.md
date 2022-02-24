@@ -1,6 +1,6 @@
 # Hi there, I'm Steve - aka [snachodog][website] 👋
 
-'insert cool stats about me here'
+`insert cool stats about me here`
 <!---
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=snachodog.com&style=for-the-badge&url=https%3A%2F%2Fsnachodog.com)](https://snachodog.com)
@@ -11,7 +11,7 @@
 --->
 
 ## I'm a Husband, Father, Scouter, and Perpetual Volunteer
-- 'insert a bulleted list of cool things about me and what I am up to'
+- `insert a bulleted list of cool things about me and what I am up to`
 <!---
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -22,7 +22,7 @@
 --->
 
 ### Connect with me:
-'list of places you can find me with really cool images from my website'
+`list of places you can find me with really cool images from my website`
 <!---
 [![website](./img/globe-light.svg)](https://dogiakos.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://dogiakos.com#gh-dark-mode-only)
