@@ -94,10 +94,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#71](https://github.com/jamesgeorge007/github-activity-readme/issues/71) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#2](https://github.com/Montana-Dinosaur-Center/bylaws/issues/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
-3. ❌ Closed PR [#2](https://github.com/Montana-Dinosaur-Center/bylaws/pull/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
-4. 💪 Opened PR [#2](https://github.com/Montana-Dinosaur-Center/bylaws/pull/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
-5. 🎉 Merged PR [#1](https://github.com/Montana-Dinosaur-Center/bylaws/pull/1) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
+2. 🗣 Commented on [#71](https://github.com/jamesgeorge007/github-activity-readme/issues/71) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#2](https://github.com/Montana-Dinosaur-Center/bylaws/issues/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
+4. ❌ Closed PR [#2](https://github.com/Montana-Dinosaur-Center/bylaws/pull/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
+5. 💪 Opened PR [#2](https://github.com/Montana-Dinosaur-Center/bylaws/pull/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
 <!--END_SECTION:activity-->
 
 
