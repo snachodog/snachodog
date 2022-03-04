@@ -1,5 +1,7 @@
 # Hi there, I'm Steve - aka [snachodog][website] 👋
 
+[![Stand With Ukraine](https://img.shields.io/badge/%23StandWithUkraine-%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 `insert cool stats about me here`
 <!---
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
