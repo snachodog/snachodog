@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting a Business in Choteau?](https://choteauchamber.com/starting-a-business-in-choteau/)
 - [The Small Business Webinar Series: Mom-preneurs – You’re Legit!](https://choteauchamber.com/sba-parentpreneur-webinar/)
 - [2022 Parade Grand Marshall Selection](https://choteauchamber.com/2022-parade-grand-marshall/)
 - [56STRONG – SBA Program](https://choteauchamber.com/56strong-sba-program/)
@@ -74,7 +75,6 @@
 - [Commerce’s Red Tape Review Meeting and October Public Comment](https://choteauchamber.com/commerces-red-tape-review-meeting-and-october-public-comment/)
 - [Updated Teton County Wellness Resources](https://choteauchamber.com/2021-teton-county-wellness-resources/)
 - [2021 4th of July Schedule](https://choteauchamber.com/2021-4th-of-july-schedule/)
-- [Choteau Housing Discussion &amp; Networking](https://choteauchamber.com/choteau-housing-discussion-networking/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
