@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reminder: No Meeting in July](https://choteauchamber.com/july-2022-meeting/)
 - [4th of July Volunteers Needed!](https://choteauchamber.com/4th-volunteers-needed/)
 - [Starting a Business in Choteau?](https://choteauchamber.com/starting-a-business-in-choteau/)
 - [The Small Business Webinar Series: Mom-preneurs – You’re Legit!](https://choteauchamber.com/sba-parentpreneur-webinar/)
@@ -74,7 +75,6 @@
 - [USDA Collaborates with Montana Small Business Partners and Stakeholders](https://choteauchamber.com/usda-collaborates-with-montana-small-business-partners-and-stakeholders/)
 - [Eviction Guidance and Resources](https://choteauchamber.com/eviction-guidance-and-resources/)
 - [Commerce’s Red Tape Review Meeting and October Public Comment](https://choteauchamber.com/commerces-red-tape-review-meeting-and-october-public-comment/)
-- [Updated Teton County Wellness Resources](https://choteauchamber.com/2021-teton-county-wellness-resources/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
