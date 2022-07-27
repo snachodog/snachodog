@@ -65,6 +65,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Temporary Child Care Assistance for Certain Health Care Workers](https://choteauchamber.com/temp-child-care-help-health-care-workers/)
+- [Trade Show Grants Available](https://choteauchamber.com/trade-show-grants-available/)
 - [Reminder: No Meeting in July](https://choteauchamber.com/july-2022-meeting/)
 - [4th of July Volunteers Needed!](https://choteauchamber.com/4th-volunteers-needed/)
 - [Starting a Business in Choteau?](https://choteauchamber.com/starting-a-business-in-choteau/)
@@ -73,8 +75,6 @@
 - [56STRONG – SBA Program](https://choteauchamber.com/56strong-sba-program/)
 - [SBA Hosts Virtual Small Business Panel in Recognition of National Disability Employment Awareness Month](https://choteauchamber.com/ba-hosts-virtual-small-business-panel-in-recognition-of-national-disability-employment-awareness-month/)
 - [USDA Collaborates with Montana Small Business Partners and Stakeholders](https://choteauchamber.com/usda-collaborates-with-montana-small-business-partners-and-stakeholders/)
-- [Eviction Guidance and Resources](https://choteauchamber.com/eviction-guidance-and-resources/)
-- [Commerce’s Red Tape Review Meeting and October Public Comment](https://choteauchamber.com/commerces-red-tape-review-meeting-and-october-public-comment/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
