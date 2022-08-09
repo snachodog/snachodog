@@ -65,6 +65,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Business Finance Class on August 15](https://choteauchamber.com/free-business-finance-class-on-august-15/)
+- [Business Facilities 18th Annual Rankings](https://choteauchamber.com/2022-business-facilities-rankings/)
 - [Temporary Child Care Assistance for Certain Health Care Workers](https://choteauchamber.com/temp-child-care-help-health-care-workers/)
 - [Trade Show Grants Available](https://choteauchamber.com/trade-show-grants-available/)
 - [Reminder: No Meeting in July](https://choteauchamber.com/july-2022-meeting/)
@@ -73,8 +75,6 @@
 - [The Small Business Webinar Series: Mom-preneurs – You’re Legit!](https://choteauchamber.com/sba-parentpreneur-webinar/)
 - [2022 Parade Grand Marshall Selection](https://choteauchamber.com/2022-parade-grand-marshall/)
 - [56STRONG – SBA Program](https://choteauchamber.com/56strong-sba-program/)
-- [SBA Hosts Virtual Small Business Panel in Recognition of National Disability Employment Awareness Month](https://choteauchamber.com/ba-hosts-virtual-small-business-panel-in-recognition-of-national-disability-employment-awareness-month/)
-- [USDA Collaborates with Montana Small Business Partners and Stakeholders](https://choteauchamber.com/usda-collaborates-with-montana-small-business-partners-and-stakeholders/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
