@@ -65,6 +65,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Choteau Business Pitch-In](https://choteauchamber.com/choteau-business-pitch-in/)
+- [Tourism Grant Application Cycle Opens With $1 Million Available](https://choteauchamber.com/tourism-grant-application-cycle-opens-with-1-million-available/)
 - [Free Business Finance Class on August 15](https://choteauchamber.com/free-business-finance-class-on-august-15/)
 - [Business Facilities 18th Annual Rankings](https://choteauchamber.com/2022-business-facilities-rankings/)
 - [Temporary Child Care Assistance for Certain Health Care Workers](https://choteauchamber.com/temp-child-care-help-health-care-workers/)
@@ -73,8 +75,6 @@
 - [4th of July Volunteers Needed!](https://choteauchamber.com/4th-volunteers-needed/)
 - [Starting a Business in Choteau?](https://choteauchamber.com/starting-a-business-in-choteau/)
 - [The Small Business Webinar Series: Mom-preneurs – You’re Legit!](https://choteauchamber.com/sba-parentpreneur-webinar/)
-- [2022 Parade Grand Marshall Selection](https://choteauchamber.com/2022-parade-grand-marshall/)
-- [56STRONG – SBA Program](https://choteauchamber.com/56strong-sba-program/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
