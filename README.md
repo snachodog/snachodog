@@ -65,16 +65,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
-- [BNSF Update](https://dogiakos.com/bnsf-update/)
-- [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
-- [Choteau Acantha: Main Street Montana Announcement](https://dogiakos.com/acantha-main-street-montana-announcement/)
-- [KRTV Teton Pass Ski Resort Grant Story](https://dogiakos.com/krtv-teton-pass-grant/)
-- [Choteau Childcare Townhall Meeting](https://dogiakos.com/choteau-childcare-townhall/)
-- [City Council Report July 17, 2018](https://dogiakos.com/city-council-07172018/)
-- [Niles West Class of 2003 Alumnus Appointed to Choteau City Council](https://dogiakos.com/appointed-to-choteau-city-council/)
-- [Scout Quote in the Choteau Acantha](https://dogiakos.com/scout-quote-in-the-choteau-acantha/)
-- [City Council Appointment](https://dogiakos.com/city-council-appointment/)
 - [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
 - [Guided Activities](https://visitchoteau.com/guided-activities/)
 - [Attractions](https://visitchoteau.com/attractions/)
