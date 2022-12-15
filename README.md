@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reminder: Minimum Wage Increases in Montana January 1st](https://choteauchamber.com/minimum-wage-increase-montana-january-1st/)
 - [It’s Small Business Season in Choteau!](https://choteauchamber.com/2022-small-business-season/)
 - [Chamber Spotlight: Choteau Senior Center](https://choteauchamber.com/chamber-spotlight-choteau-senior-center/)
 - [Help Close the Digital Divide in Montana](https://choteauchamber.com/digital-divide-survey/)
@@ -74,7 +75,6 @@
 - [Business Facilities 18th Annual Rankings](https://choteauchamber.com/2022-business-facilities-rankings/)
 - [Temporary Child Care Assistance for Certain Health Care Workers](https://choteauchamber.com/temp-child-care-help-health-care-workers/)
 - [Trade Show Grants Available](https://choteauchamber.com/trade-show-grants-available/)
-- [Reminder: No Meeting in July](https://choteauchamber.com/july-2022-meeting/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
