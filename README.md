@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
 - [Reminder: Minimum Wage Increases in Montana January 1st](https://choteauchamber.com/minimum-wage-increase-montana-january-1st/)
 - [It’s Small Business Season in Choteau!](https://choteauchamber.com/2022-small-business-season/)
 - [Chamber Spotlight: Choteau Senior Center](https://choteauchamber.com/chamber-spotlight-choteau-senior-center/)
@@ -84,7 +85,6 @@
 - [City Council Report July 17, 2018](https://dogiakos.com/city-council-07172018/)
 - [Niles West Class of 2003 Alumnus Appointed to Choteau City Council](https://dogiakos.com/appointed-to-choteau-city-council/)
 - [Scout Quote in the Choteau Acantha](https://dogiakos.com/scout-quote-in-the-choteau-acantha/)
-- [City Council Appointment](https://dogiakos.com/city-council-appointment/)
 - [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
 - [Guided Activities](https://visitchoteau.com/guided-activities/)
 - [Attractions](https://visitchoteau.com/attractions/)
