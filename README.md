@@ -66,6 +66,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
+- [Reminder: Minimum Wage Increases in Montana January 1st](https://choteauchamber.com/minimum-wage-increase-montana-january-1st/)
+- [It’s Small Business Season in Choteau!](https://choteauchamber.com/2022-small-business-season/)
+- [Chamber Spotlight: Choteau Senior Center](https://choteauchamber.com/chamber-spotlight-choteau-senior-center/)
+- [Help Close the Digital Divide in Montana](https://choteauchamber.com/digital-divide-survey/)
+- [Choteau Business Pitch-In](https://choteauchamber.com/choteau-business-pitch-in/)
+- [Tourism Grant Application Cycle Opens With $1 Million Available](https://choteauchamber.com/tourism-grant-application-cycle-opens-with-1-million-available/)
+- [Free Business Finance Class on August 15](https://choteauchamber.com/free-business-finance-class-on-august-15/)
+- [Business Facilities 18th Annual Rankings](https://choteauchamber.com/2022-business-facilities-rankings/)
+- [Temporary Child Care Assistance for Certain Health Care Workers](https://choteauchamber.com/temp-child-care-help-health-care-workers/)
+- [Trade Show Grants Available](https://choteauchamber.com/trade-show-grants-available/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
@@ -80,11 +90,6 @@
 - [Attractions](https://visitchoteau.com/attractions/)
 - [Outdoor Recreation](https://visitchoteau.com/outdoor-recreation/)
 - [Celebrate Independence Day](https://visitchoteau.com/independence-day-the-hometown-way/)
-- [Go on a Dinosaur Dig](https://visitchoteau.com/go-on-a-dig/)
-- [Scenic Sunset Golf](https://visitchoteau.com/scenic-sunset-golf/)
-- [Skiing Trip](https://visitchoteau.com/skiing-trip/)
-- [Wildlife Viewing](https://visitchoteau.com/wildlife-viewing/)
-- [Snow Goose Migration](https://visitchoteau.com/snow-goose-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dogiakos.com)
