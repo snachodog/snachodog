@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Montana Conference on Tourism Set for April 23 – 25](https://choteauchamber.com/montana-conference-on-tourism-set-for-april-23-25/)
 - [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
 - [Reminder: Minimum Wage Increases in Montana January 1st](https://choteauchamber.com/minimum-wage-increase-montana-january-1st/)
 - [It’s Small Business Season in Choteau!](https://choteauchamber.com/2022-small-business-season/)
@@ -75,7 +76,6 @@
 - [Free Business Finance Class on August 15](https://choteauchamber.com/free-business-finance-class-on-august-15/)
 - [Business Facilities 18th Annual Rankings](https://choteauchamber.com/2022-business-facilities-rankings/)
 - [Temporary Child Care Assistance for Certain Health Care Workers](https://choteauchamber.com/temp-child-care-help-health-care-workers/)
-- [Trade Show Grants Available](https://choteauchamber.com/trade-show-grants-available/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
