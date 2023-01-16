@@ -66,6 +66,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Montana Conference on Tourism Set for April 23 – 25](https://choteauchamber.com/montana-conference-on-tourism-set-for-april-23-25/)
+- [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
 - [Reminder: Minimum Wage Increases in Montana January 1st](https://choteauchamber.com/minimum-wage-increase-montana-january-1st/)
 - [It’s Small Business Season in Choteau!](https://choteauchamber.com/2022-small-business-season/)
 - [Chamber Spotlight: Choteau Senior Center](https://choteauchamber.com/chamber-spotlight-choteau-senior-center/)
@@ -75,16 +76,20 @@
 - [Free Business Finance Class on August 15](https://choteauchamber.com/free-business-finance-class-on-august-15/)
 - [Business Facilities 18th Annual Rankings](https://choteauchamber.com/2022-business-facilities-rankings/)
 - [Temporary Child Care Assistance for Certain Health Care Workers](https://choteauchamber.com/temp-child-care-help-health-care-workers/)
+- [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
+- [BNSF Update](https://dogiakos.com/bnsf-update/)
+- [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
+- [Choteau Acantha: Main Street Montana Announcement](https://dogiakos.com/acantha-main-street-montana-announcement/)
+- [KRTV Teton Pass Ski Resort Grant Story](https://dogiakos.com/krtv-teton-pass-grant/)
+- [Choteau Childcare Townhall Meeting](https://dogiakos.com/choteau-childcare-townhall/)
+- [City Council Report July 17, 2018](https://dogiakos.com/city-council-07172018/)
+- [Niles West Class of 2003 Alumnus Appointed to Choteau City Council](https://dogiakos.com/appointed-to-choteau-city-council/)
+- [Scout Quote in the Choteau Acantha](https://dogiakos.com/scout-quote-in-the-choteau-acantha/)
 - [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
 - [Guided Activities](https://visitchoteau.com/guided-activities/)
 - [Attractions](https://visitchoteau.com/attractions/)
 - [Outdoor Recreation](https://visitchoteau.com/outdoor-recreation/)
 - [Celebrate Independence Day](https://visitchoteau.com/independence-day-the-hometown-way/)
-- [Go on a Dinosaur Dig](https://visitchoteau.com/go-on-a-dig/)
-- [Scenic Sunset Golf](https://visitchoteau.com/scenic-sunset-golf/)
-- [Skiing Trip](https://visitchoteau.com/skiing-trip/)
-- [Wildlife Viewing](https://visitchoteau.com/wildlife-viewing/)
-- [Snow Goose Migration](https://visitchoteau.com/snow-goose-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dogiakos.com)
