@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating the Decades: Choteau’s 2023 Independence Day Parade Theme!](https://choteauchamber.com/celebrating-the-decades-choteaus-2023-independence-day-parade-theme/)
 - [Unlocking the Potential of Rural Communities: The Power of Community, High-Speed Internet, and AI](https://dogiakos.com/unlocking-potential-rural-communities-power-community-high-speed-internet-ai/)
 - [Choteau’s Fireworks Fundraiser Goes Collaborative for Silent Auction](https://choteauchamber.com/choteau-fireworks-fundraiser-collaborative-auction/)
 - [Montana Conference on Tourism Set for April 23 – 25](https://choteauchamber.com/montana-conference-on-tourism-set-for-april-23-25/)
@@ -76,7 +77,6 @@
 - [Choteau Business Pitch-In](https://choteauchamber.com/choteau-business-pitch-in/)
 - [Tourism Grant Application Cycle Opens With $1 Million Available](https://choteauchamber.com/tourism-grant-application-cycle-opens-with-1-million-available/)
 - [Free Business Finance Class on August 15](https://choteauchamber.com/free-business-finance-class-on-august-15/)
-- [Business Facilities 18th Annual Rankings](https://choteauchamber.com/2022-business-facilities-rankings/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
