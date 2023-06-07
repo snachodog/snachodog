@@ -65,8 +65,18 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hazard Analysis &amp; Critical Control Points &lpar;HACCP&rpar; Training for Food Manufacturers](https://choteauchamber.com/hazard-analysis-critical-control-points-haccp-training-for-food-manufacturers/)
+- [Invitation to the Manufacturing Accounting Excellence Workshop](https://choteauchamber.com/mmec-workshop/)
+- [Celebrating the Decades: Choteau’s 2023 Independence Day Parade Theme!](https://choteauchamber.com/celebrating-the-decades-choteaus-2023-independence-day-parade-theme/)
 - [Unlocking the Potential of Rural Communities: The Power of Community, High-Speed Internet, and AI](https://dogiakos.com/unlocking-potential-rural-communities-power-community-high-speed-internet-ai/)
+- [Choteau’s Fireworks Fundraiser Goes Collaborative for Silent Auction](https://choteauchamber.com/choteau-fireworks-fundraiser-collaborative-auction/)
+- [Montana Conference on Tourism Set for April 23 – 25](https://choteauchamber.com/montana-conference-on-tourism-set-for-april-23-25/)
 - [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
+- [Reminder: Minimum Wage Increases in Montana January 1st](https://choteauchamber.com/minimum-wage-increase-montana-january-1st/)
+- [It’s Small Business Season in Choteau!](https://choteauchamber.com/2022-small-business-season/)
+- [Chamber Spotlight: Choteau Senior Center](https://choteauchamber.com/chamber-spotlight-choteau-senior-center/)
+- [Help Close the Digital Divide in Montana](https://choteauchamber.com/digital-divide-survey/)
+- [Choteau Business Pitch-In](https://choteauchamber.com/choteau-business-pitch-in/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
@@ -75,6 +85,11 @@
 - [Choteau Childcare Townhall Meeting](https://dogiakos.com/choteau-childcare-townhall/)
 - [City Council Report July 17, 2018](https://dogiakos.com/city-council-07172018/)
 - [Niles West Class of 2003 Alumnus Appointed to Choteau City Council](https://dogiakos.com/appointed-to-choteau-city-council/)
+- [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
+- [Guided Activities](https://visitchoteau.com/guided-activities/)
+- [Attractions](https://visitchoteau.com/attractions/)
+- [Outdoor Recreation](https://visitchoteau.com/outdoor-recreation/)
+- [Celebrate Independence Day](https://visitchoteau.com/independence-day-the-hometown-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dogiakos.com)
