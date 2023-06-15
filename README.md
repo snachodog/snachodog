@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [USDA Launches Powerful Tool to Empower Choteau Small Businesses and Entrepreneurs](https://choteauchamber.com/usda-launches-powerful-tool-to-empower-choteau-small-businesses-and-entrepreneurs/)
 - [Hazard Analysis &amp; Critical Control Points &lpar;HACCP&rpar; Training for Food Manufacturers](https://choteauchamber.com/hazard-analysis-critical-control-points-haccp-training-for-food-manufacturers/)
 - [Invitation to the Manufacturing Accounting Excellence Workshop](https://choteauchamber.com/mmec-workshop/)
 - [Celebrating the Decades: Choteau’s 2023 Independence Day Parade Theme!](https://choteauchamber.com/celebrating-the-decades-choteaus-2023-independence-day-parade-theme/)
@@ -76,7 +77,6 @@
 - [It’s Small Business Season in Choteau!](https://choteauchamber.com/2022-small-business-season/)
 - [Chamber Spotlight: Choteau Senior Center](https://choteauchamber.com/chamber-spotlight-choteau-senior-center/)
 - [Help Close the Digital Divide in Montana](https://choteauchamber.com/digital-divide-survey/)
-- [Choteau Business Pitch-In](https://choteauchamber.com/choteau-business-pitch-in/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
