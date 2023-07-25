@@ -65,16 +65,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alluvion Mobile Medical Unit – Coming Soon to Choteau!](https://choteauchamber.com/alluvion-mobile-medical-unit-coming-soon-to-choteau/)
-- [USDA Launches Powerful Tool to Empower Choteau Small Businesses and Entrepreneurs](https://choteauchamber.com/usda-launches-powerful-tool-to-empower-choteau-small-businesses-and-entrepreneurs/)
-- [Hazard Analysis &amp; Critical Control Points &lpar;HACCP&rpar; Training for Food Manufacturers](https://choteauchamber.com/hazard-analysis-critical-control-points-haccp-training-for-food-manufacturers/)
-- [Invitation to the Manufacturing Accounting Excellence Workshop](https://choteauchamber.com/mmec-workshop/)
-- [Celebrating the Decades: Choteau’s 2023 Independence Day Parade Theme!](https://choteauchamber.com/celebrating-the-decades-choteaus-2023-independence-day-parade-theme/)
-- [Choteau’s Fireworks Fundraiser Goes Collaborative for Silent Auction](https://choteauchamber.com/choteau-fireworks-fundraiser-collaborative-auction/)
-- [Montana Conference on Tourism Set for April 23 – 25](https://choteauchamber.com/montana-conference-on-tourism-set-for-april-23-25/)
-- [Reminder: Minimum Wage Increases in Montana January 1st](https://choteauchamber.com/minimum-wage-increase-montana-january-1st/)
-- [It’s Small Business Season in Choteau!](https://choteauchamber.com/2022-small-business-season/)
-- [Chamber Spotlight: Choteau Senior Center](https://choteauchamber.com/chamber-spotlight-choteau-senior-center/)
 - [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
 - [Guided Activities](https://visitchoteau.com/guided-activities/)
 - [Attractions](https://visitchoteau.com/attractions/)
