@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fire Up Your Safety Knowledge at Choteau’s Fire Prevention Day 2023](https://choteauchamber.com/fire-prevention-day-2023/)
 - [Unlocking Your 2022 Montana Tax Rebate: A Step-by-Step Guide to Finding Your Property Geocode](https://dogiakos.com/tax-rebate-geocode/)
 - [New Grant for Start-up Ag Producers](https://choteauchamber.com/new-grant-for-start-up-ag-producers/)
 - [Business Focus: Getting Bank &amp; Credit Union Ready](https://choteauchamber.com/business-focus-getting-bank-credit-union-ready/)
@@ -76,7 +77,6 @@
 - [Celebrating the Decades: Choteau’s 2023 Independence Day Parade Theme!](https://choteauchamber.com/celebrating-the-decades-choteaus-2023-independence-day-parade-theme/)
 - [Unlocking the Potential of Rural Communities: The Power of Community, High-Speed Internet, and AI](https://dogiakos.com/unlocking-potential-rural-communities-power-community-high-speed-internet-ai/)
 - [Choteau’s Fireworks Fundraiser Goes Collaborative for Silent Auction](https://choteauchamber.com/choteau-fireworks-fundraiser-collaborative-auction/)
-- [Montana Conference on Tourism Set for April 23 – 25](https://choteauchamber.com/montana-conference-on-tourism-set-for-april-23-25/)
 - [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
