@@ -65,18 +65,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fire Up Your Safety Knowledge at Choteau’s Fire Prevention Day 2023](https://choteauchamber.com/fire-prevention-day-2023/)
 - [Unlocking Your 2022 Montana Tax Rebate: A Step-by-Step Guide to Finding Your Property Geocode](https://dogiakos.com/tax-rebate-geocode/)
-- [New Grant for Start-up Ag Producers](https://choteauchamber.com/new-grant-for-start-up-ag-producers/)
-- [Business Focus: Getting Bank &amp; Credit Union Ready](https://choteauchamber.com/business-focus-getting-bank-credit-union-ready/)
-- [PCQI Workshop in Great Falls for Food Manufacturers](https://choteauchamber.com/pcqi-workshop-in-great-falls-for-food-manufacturers/)
-- [Alluvion Mobile Medical Unit – Coming Soon to Choteau!](https://choteauchamber.com/alluvion-mobile-medical-unit-coming-soon-to-choteau/)
-- [USDA Launches Powerful Tool to Empower Choteau Small Businesses and Entrepreneurs](https://choteauchamber.com/usda-launches-powerful-tool-to-empower-choteau-small-businesses-and-entrepreneurs/)
-- [Hazard Analysis &amp; Critical Control Points &lpar;HACCP&rpar; Training for Food Manufacturers](https://choteauchamber.com/hazard-analysis-critical-control-points-haccp-training-for-food-manufacturers/)
-- [Invitation to the Manufacturing Accounting Excellence Workshop](https://choteauchamber.com/mmec-workshop/)
-- [Celebrating the Decades: Choteau’s 2023 Independence Day Parade Theme!](https://choteauchamber.com/celebrating-the-decades-choteaus-2023-independence-day-parade-theme/)
 - [Unlocking the Potential of Rural Communities: The Power of Community, High-Speed Internet, and AI](https://dogiakos.com/unlocking-potential-rural-communities-power-community-high-speed-internet-ai/)
-- [Choteau’s Fireworks Fundraiser Goes Collaborative for Silent Auction](https://choteauchamber.com/choteau-fireworks-fundraiser-collaborative-auction/)
 - [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
@@ -85,11 +75,6 @@
 - [KRTV Teton Pass Ski Resort Grant Story](https://dogiakos.com/krtv-teton-pass-grant/)
 - [Choteau Childcare Townhall Meeting](https://dogiakos.com/choteau-childcare-townhall/)
 - [City Council Report July 17, 2018](https://dogiakos.com/city-council-07172018/)
-- [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
-- [Guided Activities](https://visitchoteau.com/guided-activities/)
-- [Attractions](https://visitchoteau.com/attractions/)
-- [Outdoor Recreation](https://visitchoteau.com/outdoor-recreation/)
-- [Celebrate Independence Day](https://visitchoteau.com/independence-day-the-hometown-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dogiakos.com)
