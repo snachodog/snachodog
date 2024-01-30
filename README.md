@@ -13,8 +13,8 @@
 - 👶🏼 Dad to an awesome kid
 - 🦅 Eagle Scout
 - 🦁 Member of [Choteau Lions Club](https://choteaulions.club) (Treasurer)
-- 🦖 Board member of the [Montana Dinosaur Center](https://tmdinosaurcenter.org/)
-- Looking forward to Stream-uary 2024
+- 🦖 President of the [Montana Dinosaur Center](https://tmdinosaurcenter.org/) - [book a fossil dig expedition](https://montanadinosaurdig.com) with code SDTMDC to get 5% off!
+- Looking forward to [Stream-uary 2024](https://www.youtube.com/watch?v=YPsIx1vwUls&list=PLuL449v2Mqq_7ZbhfdEQb-0WIn5sZLmOp)
 - Former President and Council member of the [Choteau City Council](https://choteaumt.org)
 
 ### Connect with me:
