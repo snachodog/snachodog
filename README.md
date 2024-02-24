@@ -75,11 +75,6 @@
 - [KRTV Teton Pass Ski Resort Grant Story](https://dogiakos.com/krtv-teton-pass-grant/)
 - [Choteau Childcare Townhall Meeting](https://dogiakos.com/choteau-childcare-townhall/)
 - [City Council Report July 17, 2018](https://dogiakos.com/city-council-07172018/)
-- [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
-- [Guided Activities](https://visitchoteau.com/guided-activities/)
-- [Attractions](https://visitchoteau.com/attractions/)
-- [Outdoor Recreation](https://visitchoteau.com/outdoor-recreation/)
-- [Celebrate Independence Day](https://visitchoteau.com/independence-day-the-hometown-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dogiakos.com)
