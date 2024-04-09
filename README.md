@@ -55,6 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hedgehog Nonprofit Theory](https://dogiakos.com/hedgehog-nonprofit-theory/)
 - [Fire Up Your Safety Knowledge at Choteau’s Fire Prevention Day 2023](https://choteauchamber.com/fire-prevention-day-2023/)
 - [Unlocking Your 2022 Montana Tax Rebate: A Step-by-Step Guide to Finding Your Property Geocode](https://dogiakos.com/tax-rebate-geocode/)
 - [New Grant for Start-up Ag Producers](https://choteauchamber.com/new-grant-for-start-up-ag-producers/)
@@ -74,7 +75,6 @@
 - [Choteau Acantha: Main Street Montana Announcement](https://dogiakos.com/acantha-main-street-montana-announcement/)
 - [KRTV Teton Pass Ski Resort Grant Story](https://dogiakos.com/krtv-teton-pass-grant/)
 - [Choteau Childcare Townhall Meeting](https://dogiakos.com/choteau-childcare-townhall/)
-- [City Council Report July 17, 2018](https://dogiakos.com/city-council-07172018/)
 - [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
 - [Guided Activities](https://visitchoteau.com/guided-activities/)
 - [Attractions](https://visitchoteau.com/attractions/)
