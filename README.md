@@ -12,10 +12,11 @@
 ## I'm a Husband, Father, Scouter, and Perpetual Volunteer
 - 👶🏼 Dad to an awesome kid
 - 🦅 Eagle Scout
-- 🦁 Member of [Choteau Lions Club](https://choteaulions.club) (Treasurer)
+- 🦁 Member of [Choteau Lions Club](https://choteaulions.club) - Treasurer
+- 🦁 '24-'25 [Montana Lions District 37](https://montanalions.org) Treasurer
 - 🦖 President of the [Montana Dinosaur Center](https://tmdinosaurcenter.org/) - [book a fossil dig expedition](https://montanadinosaurdig.com) with code SDTMDC to get 5% off!
-- Looking forward to [Stream-uary 2024](https://www.youtube.com/watch?v=YPsIx1vwUls&list=PLuL449v2Mqq_7ZbhfdEQb-0WIn5sZLmOp)
 - Former President and Council member of the [Choteau City Council](https://choteaumt.org)
+- Former President of the [Choteau Chamber of Commerce](https://choteauchamber.com)
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://dogiakos.com#gh-light-mode-only)
@@ -33,25 +34,17 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/snachodog#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/snachodog#gh-dark-mode-only)
 
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Steve Dogiakos is playing Destiny 2 on Stadia](https://www.youtube.com/watch?v=wRQ-i0JAm-M)
-- [Celebration of Life for Peter Dogiakos | $10,000 Donation to the Buehler Enabling Garden](https://www.youtube.com/watch?v=i4doUgS9vuQ)
-- [Fortnite Season 4!](https://www.youtube.com/watch?v=LsIFZRIlSXE)
-- [Hit the Top 5 in Fortnite and the GAME CRASHED](https://www.youtube.com/watch?v=-Ee3Y3NwKTQ)
-- [Ice Dungeon and JIFs and Smorgasbords | A Link to the Past Randomized - Episode 21](https://www.youtube.com/watch?v=oKdGZJxvBW4)
-<!-- YOUTUBE:END -->
-
+<!---
+# 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -
+# - [Steve Dogiakos is playing Destiny 2 on Stadia](https://www.youtube.com/watch?v=wRQ-i0JAm-M)
+ - [Celebration of Life for Peter Dogiakos | $10,000 Donation to the Buehler Enabling Garden](https://www.youtube.com/watch?v=i4doUgS9vuQ)
+# - [Fortnite Season 4!](https://www.youtube.com/watch?v=LsIFZRIlSXE)
+ - [Hit the Top 5 in Fortnite and the GAME CRASHED](https://www.youtube.com/watch?v=-Ee3Y3NwKTQ)
+ - [Ice Dungeon and JIFs and Smorgasbords | A Link to the Past Randomized - Episode 21](https://www.youtube.com/watch?v=oKdGZJxvBW4)
 ➡️ [more videos...](https://youtube.com/snachodog)
-
+-->
 ---
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -93,7 +86,6 @@
 4. ❌ Closed PR [#2](https://github.com/Montana-Dinosaur-Center/bylaws/pull/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
 5. 💪 Opened PR [#2](https://github.com/Montana-Dinosaur-Center/bylaws/pull/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
 <!--END_SECTION:activity-->
-
 
 [website]: https://dogiakos.com
 [twitter]: https://twitter.com/snachodog
