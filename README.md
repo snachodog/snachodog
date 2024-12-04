@@ -48,6 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover the Heart of Choteau: A Guide to Local Nonprofits](https://dogiakos.com/giving-tuesday-2024/)
 - [Setting Up WaveApps API for n8n](https://dogiakos.com/n8n-wavapps-api-setup/)
 - [On Supporting Local](https://dogiakos.com/on-supporting-local/)
 - [Hedgehog Nonprofit Theory](https://dogiakos.com/hedgehog-nonprofit-theory/)
@@ -67,7 +68,6 @@
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
 - [BNSF Update](https://dogiakos.com/bnsf-update/)
 - [NLC Service Line Program](https://dogiakos.com/nlc-service-line-program/)
-- [Choteau Acantha: Main Street Montana Announcement](https://dogiakos.com/acantha-main-street-montana-announcement/)
 - [Shopping and Dining](https://visitchoteau.com/shopping-and-dining/)
 - [Guided Activities](https://visitchoteau.com/guided-activities/)
 - [Attractions](https://visitchoteau.com/attractions/)
