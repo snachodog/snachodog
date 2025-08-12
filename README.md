@@ -9,7 +9,7 @@
 ## Currently listening to
 [![Spotify](https://novatorem-kohl-tau.vercel.app/api/spotify)](https://open.spotify.com/user/snachodog)
 
-## I'm a Husband, Father, Scouter, and Perpetual Volunteer
+## I'm a Husband, Father, Lion, and Perpetual Volunteer
 - 👶🏼 Dad to an awesome kid
 - 🦅 Eagle Scout
 - 🦁 Member of [Choteau Lions Club](https://choteaulions.club) - Treasurer
