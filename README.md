@@ -1,10 +1,9 @@
 # Hi there, I'm Steve - aka [snachodog][website] 👋
 
-[![Stand With Ukraine](https://img.shields.io/badge/%23StandWithUkraine-%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![Stand With Ukraine](https://img.shields.io/badge/%23StandWithUkraine-%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)  [![Website](https://img.shields.io/website?label=dogiakos.com&style=for-the-badge&url=https%3A%2F%2Fdogiakos.com)](https://dogiakos.com)
 <!--_
 [![YouTube Channel Subscribers]([https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)](https://img.shields.io/youtube/channel/subscribers/UCEQdgJr_yLFHarIbXWfDIzw?logo=youtube&logoColor=red&style=for-the-badge))][youtube]
 --->
-[![Website](https://img.shields.io/website?label=dogiakos.com&style=for-the-badge&url=https%3A%2F%2Fdogiakos.com)](https://dogiakos.com)
 
 ## Currently listening to
 [![Spotify](https://novatorem-kohl-tau.vercel.app/api/spotify)](https://open.spotify.com/user/snachodog)
