@@ -27,11 +27,10 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/snachodog#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/snachodog#gh-dark-mode-only)
-&nbsp;&nbsp;
+<!--- &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/snachodog#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/snachodog#gh-dark-mode-only)
 
-<!---
 # 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -
 # - [Steve Dogiakos is playing Destiny 2 on Stadia](https://www.youtube.com/watch?v=wRQ-i0JAm-M)
