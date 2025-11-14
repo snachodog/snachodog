@@ -43,6 +43,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🎄 2025 Choteau Chamber Christmas Stroll 🎄](https://choteauchamber.com/%f0%9f%8e%84-2025-choteau-chamber-christmas-stroll-%f0%9f%8e%84/)
 - [Celebrating 40 Years of Our Parade Grand Marshals: A Tribute to Choteau’s Community Leaders](https://choteauchamber.com/parade-grand-marshals-history/)
 - [Discover the Heart of Choteau: A Guide to Local Nonprofits](https://dogiakos.com/giving-tuesday-2024/)
 - [Setting Up WaveApps API for n8n](https://dogiakos.com/n8n-wavapps-api-setup/)
@@ -57,7 +58,6 @@
 - [USDA Launches Powerful Tool to Empower Choteau Small Businesses and Entrepreneurs](https://choteauchamber.com/usda-launches-powerful-tool-to-empower-choteau-small-businesses-and-entrepreneurs/)
 - [Hazard Analysis &amp; Critical Control Points &lpar;HACCP&rpar; Training for Food Manufacturers](https://choteauchamber.com/hazard-analysis-critical-control-points-haccp-training-for-food-manufacturers/)
 - [Invitation to the Manufacturing Accounting Excellence Workshop](https://choteauchamber.com/mmec-workshop/)
-- [Celebrating the Decades: Choteau’s 2023 Independence Day Parade Theme!](https://choteauchamber.com/celebrating-the-decades-choteaus-2023-independence-day-parade-theme/)
 - [Unlocking the Potential of Rural Communities: The Power of Community, High-Speed Internet, and AI](https://dogiakos.com/unlocking-potential-rural-communities-power-community-high-speed-internet-ai/)
 - [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
 - [My #ScoutMeIn Story](https://dogiakos.com/my-scoutmein-story/)
