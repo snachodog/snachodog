@@ -5,9 +5,6 @@
 [![YouTube Channel Subscribers]([https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)](https://img.shields.io/youtube/channel/subscribers/UCEQdgJr_yLFHarIbXWfDIzw?logo=youtube&logoColor=red&style=for-the-badge))][youtube]
 --->
 
-## Currently listening to
-[![Spotify](https://novatorem-kohl-tau.vercel.app/api/spotify)](https://open.spotify.com/user/snachodog)
-
 ## I'm a Husband, Father, Lion, and Perpetual Volunteer
 - 👶🏼 Dad to an awesome kid
 - 🦅 Eagle Scout
