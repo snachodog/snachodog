@@ -15,3 +15,4 @@ jobs:
         with:
           feed_list: "https://dogiakos.com/feed,https://visitchoteau.com/author/steve/feed/,https://choteauchamber.com/author/steve/feed/,https://montanalions.org/author/steve/feed/,https://tmdinosaurcenter.org/author/steve/feed/"
           max_post_count: 25
+          user_agent: "Steve-GitHub-RSS/1.0 (blog-post-workflow)"
