@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dogiakos.com/feed,https://visitchoteau.com/author/steve/feed/,https://choteauchamber.com/author/steve/feed/"
+          feed_list: "https://dogiakos.com/feed,https://visitchoteau.com/author/steve/feed/,https://choteauchamber.com/author/steve/feed/,https://montanalions.org/author/steve/feed/"
           max_post_count: 25
