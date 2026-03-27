@@ -40,6 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Measure of a Lion](https://www.montanalions.org/2026/03/26/the-measure-of-a-lion/)
 - [Is Your Lions Club “Invite Only”? Or Just Invisible?](https://www.montanalions.org/2026/03/01/is-your-lions-club-invite-only-or-just-invisible/)
 - [LCI Considering International Dues Increase for 2028-2032](https://www.montanalions.org/2026/02/04/lci-considering-international-dues-increase-for-2028-2032/)
 - [Planning the Ultimate Montana Road Trip: Yellowstone to Glacier via Choteau](https://tmdinosaurcenter.org/planning-the-ultimate-montana-road-trip-yellowstone-to-glacier-via-choteau/)
@@ -53,7 +54,6 @@
 - [Club Treasurer Financial Checklist for July](https://www.montanalions.org/2025/07/01/treasurer-checklist-july-2025/)
 - [Celebrating 40 Years of Our Parade Grand Marshals: A Tribute to Choteau’s Community Leaders](https://choteauchamber.com/parade-grand-marshals-history/)
 - [Great News for Montana Lions Clubs: Online Raffle Credit Card Payments Now Allowed](https://www.montanalions.org/2025/06/14/montana-nonprofits-can-accept-credit-cards-for-online-raffles/)
-- [Budgeting for a Successful Lions Year](https://www.montanalions.org/2025/06/01/successful-budgeting/)
 - [Discover the Heart of Choteau: A Guide to Local Nonprofits](https://dogiakos.com/giving-tuesday-2024/)
 - [What is a Paleontologist?](https://tmdinosaurcenter.org/what-is-a-paleontologist/)
 - [Setting Up WaveApps API for n8n](https://dogiakos.com/n8n-wavapps-api-setup/)
