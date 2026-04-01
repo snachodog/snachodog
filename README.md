@@ -66,11 +66,12 @@
 - [PCQI Workshop in Great Falls for Food Manufacturers](https://choteauchamber.com/pcqi-workshop-in-great-falls-for-food-manufacturers/)
 - [Alluvion Mobile Medical Unit – Coming Soon to Choteau!](https://choteauchamber.com/alluvion-mobile-medical-unit-coming-soon-to-choteau/)
 <!-- BLOG-POST-LIST:END -->
-
 ➡️ [more blog posts...](https://dogiakos.com)
 
 ---
-
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+---
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 2. 💪 Opened PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
