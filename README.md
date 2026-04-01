@@ -72,11 +72,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/jamesgeorge007/github-activity-readme/issues/71) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#71](https://github.com/jamesgeorge007/github-activity-readme/issues/71) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#2](https://github.com/Montana-Dinosaur-Center/bylaws/issues/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
-4. ❌ Closed PR [#2](https://github.com/Montana-Dinosaur-Center/bylaws/pull/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
-5. 💪 Opened PR [#2](https://github.com/Montana-Dinosaur-Center/bylaws/pull/2) in [Montana-Dinosaur-Center/bylaws](https://github.com/Montana-Dinosaur-Center/bylaws)
+1. 🎉 Merged PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+2. 💪 Opened PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+3. 🎉 Merged PR [#98](https://github.com/snachodog/medicine-cabinet/pull/98) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+4. 🔒 Closed issue [#92](https://github.com/snachodog/medicine-cabinet/issues/92) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+5. 💪 Opened PR [#98](https://github.com/snachodog/medicine-cabinet/pull/98) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
 
 [website]: https://dogiakos.com
