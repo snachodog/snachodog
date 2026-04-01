@@ -36,40 +36,11 @@
  - [Ice Dungeon and JIFs and Smorgasbords | A Link to the Past Randomized - Episode 21](https://www.youtube.com/watch?v=oKdGZJxvBW4)
 ➡️ [more videos...](https://youtube.com/snachodog)
 -->
----
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Is Your Lions Club “Invite Only”? Or Just Invisible?](https://www.montanalions.org/2026/03/01/is-your-lions-club-invite-only-or-just-invisible/)
-- [LCI Considering International Dues Increase for 2028-2032](https://www.montanalions.org/2026/02/04/lci-considering-international-dues-increase-for-2028-2032/)
-- [Planning the Ultimate Montana Road Trip: Yellowstone to Glacier via Choteau](https://tmdinosaurcenter.org/planning-the-ultimate-montana-road-trip-yellowstone-to-glacier-via-choteau/)
-- [Understanding District 37 Dues for the 2025–2026 Lionistic Year](https://www.montanalions.org/2026/01/01/understanding-district-37-dues-for-the-2025-2026-lionistic-year-2/)
-- [2026 District 37 Membership Invoices Sent via QuickBooks Online](https://www.montanalions.org/2025/12/30/2026-invoices-notice/)
-- [Understanding District 37 Dues for the 2025–2026 Lionistic Year](https://www.montanalions.org/2025/12/01/understanding-district-37-dues-for-the-2025-2026-lionistic-year/)
-- [🎄 2025 Choteau Chamber Christmas Stroll 🎄](https://choteauchamber.com/%f0%9f%8e%84-2025-choteau-chamber-christmas-stroll-%f0%9f%8e%84/)
-- [District Treasurer – IRS Filing Reminder](https://www.montanalions.org/2025/10/01/district-treasurer-irs-filing-reminder-2025/)
-- [Turn Your Club Into a Content-Creating Machine](https://www.montanalions.org/2025/08/01/capture-and-share-lion-stories/)
-- [Staff Picks: What We’re Reading this Summer – Sci-Fi &amp; Fantasy](https://tmdinosaurcenter.org/staff-books-picks-2025/)
-- [Club Treasurer Financial Checklist for July](https://www.montanalions.org/2025/07/01/treasurer-checklist-july-2025/)
-- [Celebrating 40 Years of Our Parade Grand Marshals: A Tribute to Choteau’s Community Leaders](https://choteauchamber.com/parade-grand-marshals-history/)
-- [Great News for Montana Lions Clubs: Online Raffle Credit Card Payments Now Allowed](https://www.montanalions.org/2025/06/14/montana-nonprofits-can-accept-credit-cards-for-online-raffles/)
-- [Budgeting for a Successful Lions Year](https://www.montanalions.org/2025/06/01/successful-budgeting/)
-- [Discover the Heart of Choteau: A Guide to Local Nonprofits](https://dogiakos.com/giving-tuesday-2024/)
-- [What is a Paleontologist?](https://tmdinosaurcenter.org/what-is-a-paleontologist/)
-- [Setting Up WaveApps API for n8n](https://dogiakos.com/n8n-wavapps-api-setup/)
-- [On Supporting Local](https://dogiakos.com/on-supporting-local/)
-- [Hedgehog Nonprofit Theory](https://dogiakos.com/hedgehog-nonprofit-theory/)
-- [Fire Up Your Safety Knowledge at Choteau’s Fire Prevention Day 2023](https://choteauchamber.com/fire-prevention-day-2023/)
-- [Unlocking Your 2022 Montana Tax Rebate: A Step-by-Step Guide to Finding Your Property Geocode](https://dogiakos.com/tax-rebate-geocode/)
-- [New Grant for Start-up Ag Producers](https://choteauchamber.com/new-grant-for-start-up-ag-producers/)
-- [Business Focus: Getting Bank &amp; Credit Union Ready](https://choteauchamber.com/business-focus-getting-bank-credit-union-ready/)
-- [PCQI Workshop in Great Falls for Food Manufacturers](https://choteauchamber.com/pcqi-workshop-in-great-falls-for-food-manufacturers/)
-- [Alluvion Mobile Medical Unit – Coming Soon to Choteau!](https://choteauchamber.com/alluvion-mobile-medical-unit-coming-soon-to-choteau/)
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://dogiakos.com)
-
----
-<!-- YOUTUBE:START -->
+- [Montana-History Facts: Jeanette Rankin](https://www.youtube.com/shorts/ngVtWRFbJ7o)
+- [Stetsons are one of the most well-known brands of cowboy hats](https://www.youtube.com/shorts/5whkGuMH9v4)
+- [Montana Facts #sapphire #gems #yogosapphire #geology #montana #montanalife](https://www.youtube.com/shorts/59dDUsja6ZA)
+- [Bird Facts #kiwi #aotearoa #newzealand #aotoera](https://www.youtube.com/shorts/LNfbcshY03o)
+- [Glacier National Park Facts #montana #glaciernationalpark](https://www.youtube.com/shorts/QLoOD07_tCY)
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
