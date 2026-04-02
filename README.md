@@ -44,11 +44,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-2. 💪 Opened PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-3. 🎉 Merged PR [#98](https://github.com/snachodog/medicine-cabinet/pull/98) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-4. 🔒 Closed issue [#92](https://github.com/snachodog/medicine-cabinet/issues/92) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-5. 💪 Opened PR [#98](https://github.com/snachodog/medicine-cabinet/pull/98) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+1. ❗ Opened issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+2. ℹ️ Labeled issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+3. 🎉 Merged PR [#100](https://github.com/snachodog/medicine-cabinet/pull/100) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+4. 💪 Opened PR [#100](https://github.com/snachodog/medicine-cabinet/pull/100) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+5. 🎉 Merged PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
 
 [website]: https://dogiakos.com
