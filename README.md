@@ -23,19 +23,9 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/snachodog#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/snachodog#gh-dark-mode-only)
-<!--- &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/snachodog#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/snachodog#gh-dark-mode-only)
 
 # 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -
-# - [Steve Dogiakos is playing Destiny 2 on Stadia](https://www.youtube.com/watch?v=wRQ-i0JAm-M)
- - [Celebration of Life for Peter Dogiakos | $10,000 Donation to the Buehler Enabling Garden](https://www.youtube.com/watch?v=i4doUgS9vuQ)
-# - [Fortnite Season 4!](https://www.youtube.com/watch?v=LsIFZRIlSXE)
- - [Hit the Top 5 in Fortnite and the GAME CRASHED](https://www.youtube.com/watch?v=-Ee3Y3NwKTQ)
- - [Ice Dungeon and JIFs and Smorgasbords | A Link to the Past Randomized - Episode 21](https://www.youtube.com/watch?v=oKdGZJxvBW4)
-➡️ [more videos...](https://youtube.com/snachodog)
--->
+<!-- YOUTUBE:START -->
 - [Montana-History Facts: Jeanette Rankin](https://www.youtube.com/shorts/ngVtWRFbJ7o)
 - [Stetsons are one of the most well-known brands of cowboy hats](https://www.youtube.com/shorts/5whkGuMH9v4)
 - [Montana Facts #sapphire #gems #yogosapphire #geology #montana #montanalife](https://www.youtube.com/shorts/59dDUsja6ZA)
@@ -51,6 +41,9 @@
 5. 🎉 Merged PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
 
+<!-- BLOG-POST-LIST:START --> 
+
+<!-- BLOG-POST-LIST:END -->
 [website]: https://dogiakos.com
 [twitter]: https://twitter.com/snachodog
 [youtube]: https://youtube.com/snachodog
