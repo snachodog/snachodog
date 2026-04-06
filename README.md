@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-2. ℹ️ Labeled issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-3. 🎉 Merged PR [#100](https://github.com/snachodog/medicine-cabinet/pull/100) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-4. 💪 Opened PR [#100](https://github.com/snachodog/medicine-cabinet/pull/100) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-5. 🎉 Merged PR [#99](https://github.com/snachodog/medicine-cabinet/pull/99) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+1. ℹ️ Assigned issue [#102](https://github.com/snachodog/medicine-cabinet/issues/102) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+2. ℹ️ Labeled issue [#102](https://github.com/snachodog/medicine-cabinet/issues/102) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+3. ❗ Opened issue [#102](https://github.com/snachodog/medicine-cabinet/issues/102) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+4. ❗ Opened issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+5. ℹ️ Labeled issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
