@@ -34,9 +34,9 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#103](https://github.com/snachodog/medicine-cabinet/pull/103) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+1. ❌ Closed PR [#1](https://github.com/snachodog/bynumcivicclub/pull/1) in [snachodog/bynumcivicclub](https://github.com/snachodog/bynumcivicclub)
 2. ℹ️ Labeled PR [#103](https://github.com/snachodog/medicine-cabinet/pull/103) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-3. ❗ Opened issue [#102](https://github.com/snachodog/medicine-cabinet/issues/102) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+3. ℹ️ Labeled PR [#103](https://github.com/snachodog/medicine-cabinet/pull/103) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 4. ❗ Opened issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 5. ℹ️ Labeled issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
