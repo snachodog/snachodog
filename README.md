@@ -42,6 +42,7 @@
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Just Take My Word for It: Read Item 2 in the Official Convention Call](https://www.montanalions.org/2026/05/14/lci-dues-increase-review-item-2-convention-call/)
 - [Don’t Buy That Gift Card: A Warning to Montana Lions](https://www.montanalions.org/2026/04/23/say-no-to-gift-card-scams/)
 - [The Measure of a Lion](https://www.montanalions.org/2026/04/01/the-measure-of-a-lion/)
 - [Is Your Lions Club “Invite Only”? Or Just Invisible?](https://www.montanalions.org/2026/03/01/is-your-lions-club-invite-only-or-just-invisible/)
@@ -54,7 +55,6 @@
 - [District Treasurer – IRS Filing Reminder](https://www.montanalions.org/2025/10/01/district-treasurer-irs-filing-reminder-2025/)
 - [Turn Your Club Into a Content-Creating Machine](https://www.montanalions.org/2025/08/01/capture-and-share-lion-stories/)
 - [Staff Picks: What We’re Reading this Summer – Sci-Fi &amp; Fantasy](https://tmdinosaurcenter.org/staff-books-picks-2025/)
-- [Club Treasurer Financial Checklist for July](https://www.montanalions.org/2025/07/01/treasurer-checklist-july-2025/)
 - [Celebrating 40 Years of Our Parade Grand Marshals: A Tribute to Choteau’s Community Leaders](https://choteauchamber.com/parade-grand-marshals-history/)
 - [Discover the Heart of Choteau: A Guide to Local Nonprofits](https://dogiakos.com/giving-tuesday-2024/)
 - [What is a Paleontologist?](https://tmdinosaurcenter.org/what-is-a-paleontologist/)
