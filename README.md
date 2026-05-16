@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#14](https://github.com/snachodog/check-printing/issues/14) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-2. ℹ️ Labeled issue [#14](https://github.com/snachodog/check-printing/issues/14) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-3. ❗ Opened issue [#14](https://github.com/snachodog/check-printing/issues/14) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-4. ℹ️ Assigned issue [#13](https://github.com/snachodog/check-printing/issues/13) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-5. ℹ️ Labeled issue [#13](https://github.com/snachodog/check-printing/issues/13) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+1. ℹ️ Labeled issue [#15](https://github.com/snachodog/check-printing/issues/15) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+2. ❗ Opened issue [#15](https://github.com/snachodog/check-printing/issues/15) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+3. ℹ️ Assigned issue [#15](https://github.com/snachodog/check-printing/issues/15) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+4. ℹ️ Assigned issue [#14](https://github.com/snachodog/check-printing/issues/14) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+5. ℹ️ Labeled issue [#14](https://github.com/snachodog/check-printing/issues/14) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
