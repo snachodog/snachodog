@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/snachodog/bynumcivicclub/issues/3) in [snachodog/bynumcivicclub](https://github.com/snachodog/bynumcivicclub)
-2. ❌ Closed PR [#1](https://github.com/snachodog/bynumcivicclub/pull/1) in [snachodog/bynumcivicclub](https://github.com/snachodog/bynumcivicclub)
-3. ℹ️ Labeled PR [#103](https://github.com/snachodog/medicine-cabinet/pull/103) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-4. ℹ️ Labeled PR [#103](https://github.com/snachodog/medicine-cabinet/pull/103) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-5. ℹ️ Labeled issue [#101](https://github.com/snachodog/medicine-cabinet/issues/101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+1. ℹ️ Assigned issue [#14](https://github.com/snachodog/check-printing/issues/14) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+2. ℹ️ Labeled issue [#14](https://github.com/snachodog/check-printing/issues/14) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+3. ❗ Opened issue [#14](https://github.com/snachodog/check-printing/issues/14) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+4. ℹ️ Assigned issue [#13](https://github.com/snachodog/check-printing/issues/13) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+5. ℹ️ Labeled issue [#13](https://github.com/snachodog/check-printing/issues/13) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
