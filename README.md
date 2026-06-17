@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/snachodog/check-printing/releases/tag/v0.5.0) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-2. 🎉 Merged PR [#18](https://github.com/snachodog/check-printing/pull/18) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-3. 💪 Opened PR [#18](https://github.com/snachodog/check-printing/pull/18) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-4. 🎉 Merged PR [#17](https://github.com/snachodog/check-printing/pull/17) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-5. 💪 Opened PR [#17](https://github.com/snachodog/check-printing/pull/17) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+1. ℹ️ Assigned issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+2. ℹ️ Labeled issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+3. ❗ Opened issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+4. 🚀 Published release [v0.5.0](https://github.com/snachodog/check-printing/releases/tag/v0.5.0) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+5. 🎉 Merged PR [#18](https://github.com/snachodog/check-printing/pull/18) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
