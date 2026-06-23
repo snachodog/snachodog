@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-2. ℹ️ Labeled issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-3. ❗ Opened issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-4. 🚀 Published release [v0.5.0](https://github.com/snachodog/check-printing/releases/tag/v0.5.0) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-5. 🎉 Merged PR [#18](https://github.com/snachodog/check-printing/pull/18) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+1. ❌ Closed PR [#105](https://github.com/snachodog/medicine-cabinet/pull/105) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+2. ℹ️ Assigned issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+3. ℹ️ Labeled issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+4. ❗ Opened issue [#19](https://github.com/snachodog/check-printing/issues/19) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+5. 🚀 Published release [v0.5.0](https://github.com/snachodog/check-printing/releases/tag/v0.5.0) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
