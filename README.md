@@ -42,6 +42,7 @@
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
+- [Club Treasurers: Semiannual Dues Invoices Are Ready for Payment](https://www.montanalions.org/2026/07/16/club-treasurers-semiannual-dues-invoices-are-ready-for-payment/)
 - [Club Treasurer Financial Checklist for July](https://www.montanalions.org/2026/07/01/club-treasurer-financial-checklist-for-july/)
 - [Closing the Books, Opening the Summer: A Treasurer’s Year-End Message](https://www.montanalions.org/2026/06/01/closing-the-books-opening-the-summer-a-treasurers-year-end-message/)
 - [Don’t Just Take My Word for It: Read Item 2 in the Official Convention Call](https://www.montanalions.org/2026/05/14/lci-dues-increase-review-item-2-convention-call/)
@@ -52,7 +53,6 @@
 - [Planning the Ultimate Montana Road Trip: Yellowstone to Glacier via Choteau](https://tmdinosaurcenter.org/planning-the-ultimate-montana-road-trip-yellowstone-to-glacier-via-choteau/)
 - [Understanding District 37 Dues for the 2025–2026 Lionistic Year](https://www.montanalions.org/2026/01/01/understanding-district-37-dues-for-the-2025-2026-lionistic-year-2/)
 - [2026 District 37 Membership Invoices Sent via QuickBooks Online](https://www.montanalions.org/2025/12/30/2026-invoices-notice/)
-- [Understanding District 37 Dues for the 2025–2026 Lionistic Year](https://www.montanalions.org/2025/12/01/understanding-district-37-dues-for-the-2025-2026-lionistic-year/)
 - [🎄 2025 Choteau Chamber Christmas Stroll 🎄](https://choteauchamber.com/%f0%9f%8e%84-2025-choteau-chamber-christmas-stroll-%f0%9f%8e%84/)
 - [Staff Picks: What We’re Reading this Summer – Sci-Fi &amp; Fantasy](https://tmdinosaurcenter.org/staff-books-picks-2025/)
 - [Celebrating 40 Years of Our Parade Grand Marshals: A Tribute to Choteau’s Community Leaders](https://choteauchamber.com/parade-grand-marshals-history/)
