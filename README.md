@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/snachodog/check-printing/issues/22#issuecomment-4976588328) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-2. ℹ️ Assigned issue [#22](https://github.com/snachodog/check-printing/issues/22) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-3. ℹ️ Labeled issue [#22](https://github.com/snachodog/check-printing/issues/22) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-4. ❗ Opened issue [#22](https://github.com/snachodog/check-printing/issues/22) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
-5. ❌ Closed PR [#105](https://github.com/snachodog/medicine-cabinet/pull/105) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+1. ❌ Closed PR [#108](https://github.com/snachodog/medicine-cabinet/pull/108) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+2. 🗣 Commented on [#108](https://github.com/snachodog/medicine-cabinet/pull/108#issuecomment-5093522975) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+3. 🗣 Commented on [#22](https://github.com/snachodog/check-printing/issues/22#issuecomment-4976588328) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+4. ℹ️ Assigned issue [#22](https://github.com/snachodog/check-printing/issues/22) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
+5. ℹ️ Labeled issue [#22](https://github.com/snachodog/check-printing/issues/22) in [snachodog/check-printing](https://github.com/snachodog/check-printing)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
