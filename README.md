@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/snachodog/medicine-cabinet/issues/114#issuecomment-5333568101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-2. 🎉 Merged PR [#117](https://github.com/snachodog/medicine-cabinet/pull/117) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-3. 💪 Opened PR [#117](https://github.com/snachodog/medicine-cabinet/pull/117) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-4. 🎉 Merged PR [#116](https://github.com/snachodog/medicine-cabinet/pull/116) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-5. 🔒 Closed issue [#114](https://github.com/snachodog/medicine-cabinet/issues/114) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+1. ℹ️ Assigned issue [#26521](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/issues/26521) in [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
+2. ❗ Opened issue [#26521](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/issues/26521) in [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
+3. ℹ️ Labeled issue [#26521](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/issues/26521) in [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
+4. 🗣 Commented on [#114](https://github.com/snachodog/medicine-cabinet/issues/114#issuecomment-5333568101) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+5. 🎉 Merged PR [#117](https://github.com/snachodog/medicine-cabinet/pull/117) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
