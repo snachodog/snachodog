@@ -42,16 +42,6 @@
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
-- [From District Treasurer Steve Dogiakos](https://www.montanalions.org/2026/09/01/from-district-treasurer-steve-dogiakos/)
-- [Your Club’s Photos Could Recruit Montana’s Next Lions. Send Them Now.](https://www.montanalions.org/2026/09/01/your-clubs-photos-could-recruit-montanas-next-lions-send-them-now/)
-- [Heads Up Treasurers &lpar;and Presidents&rpar;](https://www.montanalions.org/2026/08/14/heads-up-treasurers-and-presidents/)
-- [Club Treasurers: Semiannual Dues Invoices Are Ready for Payment](https://www.montanalions.org/2026/08/01/club-treasurers-semiannual-dues-invoices-are-ready-for-payment/)
-- [Club Treasurer Financial Checklist for July](https://www.montanalions.org/2026/07/01/club-treasurer-financial-checklist-for-july/)
-- [Closing the Books, Opening the Summer: A Treasurer’s Year-End Message](https://www.montanalions.org/2026/06/01/closing-the-books-opening-the-summer-a-treasurers-year-end-message/)
-- [Don’t Just Take My Word for It: Read Item 2 in the Official Convention Call](https://www.montanalions.org/2026/05/14/lci-dues-increase-review-item-2-convention-call/)
-- [Don’t Buy That Gift Card: A Warning to Montana Lions](https://www.montanalions.org/2026/04/23/say-no-to-gift-card-scams/)
-- [The Measure of a Lion](https://www.montanalions.org/2026/04/01/the-measure-of-a-lion/)
-- [Is Your Lions Club “Invite Only”? Or Just Invisible?](https://www.montanalions.org/2026/03/01/is-your-lions-club-invite-only-or-just-invisible/)
 - [Planning the Ultimate Montana Road Trip: Yellowstone to Glacier via Choteau](https://tmdinosaurcenter.org/planning-the-ultimate-montana-road-trip-yellowstone-to-glacier-via-choteau/)
 - [🎄 2025 Choteau Chamber Christmas Stroll 🎄](https://choteauchamber.com/%f0%9f%8e%84-2025-choteau-chamber-christmas-stroll-%f0%9f%8e%84/)
 - [Staff Picks: What We’re Reading this Summer – Sci-Fi &amp; Fantasy](https://tmdinosaurcenter.org/staff-books-picks-2025/)
@@ -67,6 +57,16 @@
 - [Business Focus: Getting Bank &amp; Credit Union Ready](https://choteauchamber.com/business-focus-getting-bank-credit-union-ready/)
 - [PCQI Workshop in Great Falls for Food Manufacturers](https://choteauchamber.com/pcqi-workshop-in-great-falls-for-food-manufacturers/)
 - [Alluvion Mobile Medical Unit – Coming Soon to Choteau!](https://choteauchamber.com/alluvion-mobile-medical-unit-coming-soon-to-choteau/)
+- [USDA Launches Powerful Tool to Empower Choteau Small Businesses and Entrepreneurs](https://choteauchamber.com/usda-launches-powerful-tool-to-empower-choteau-small-businesses-and-entrepreneurs/)
+- [Hazard Analysis &amp; Critical Control Points &lpar;HACCP&rpar; Training for Food Manufacturers](https://choteauchamber.com/hazard-analysis-critical-control-points-haccp-training-for-food-manufacturers/)
+- [Invitation to the Manufacturing Accounting Excellence Workshop](https://choteauchamber.com/mmec-workshop/)
+- [Montana Dinosaur Center Receives $9,400 for Fossil Preservation!](https://tmdinosaurcenter.org/montana-dinosaur-center-receives-9400-for-fossil-preservation/)
+- [Unlocking the Potential of Rural Communities: The Power of Community, High-Speed Internet, and AI](https://dogiakos.com/unlocking-potential-rural-communities-power-community-high-speed-internet-ai/)
+- [Testing Federated Blogging](https://dogiakos.com/testing-mastodon/)
+- [The Excitement of a Montana Dinosaur Dig](https://tmdinosaurcenter.org/experience-the-excitement-montana-dinosaur-dig/)
+- [Montana Dinosaur Center Receives Grants](https://tmdinosaurcenter.org/montana-dinosaur-center-receives-grants/)
+- [Podcast Episode 4, Story Time With Dave: Cracking Open the Story of Egg Mountain](https://tmdinosaurcenter.org/podcast-ep-4-egg-mountain/)
+- [Podcast Episode 3, Story Time With Dave: Jack Horner, Infamy, and Starting a Museum](https://tmdinosaurcenter.org/podcast-episode-3-story-time-with-dave-jack-horner-infamy-and-starting-a-museum/)
 <!-- BLOG-POST-LIST:END -->
 [website]: https://dogiakos.com
 [twitter]: https://twitter.com/snachodog
