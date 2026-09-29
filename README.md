@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/snachodog/tourismgrant.com/pull/8) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-2. 🎉 Merged PR [#7](https://github.com/snachodog/tourismgrant.com/pull/7) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-3. 💪 Opened PR [#8](https://github.com/snachodog/tourismgrant.com/pull/8) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-4. 💪 Opened PR [#7](https://github.com/snachodog/tourismgrant.com/pull/7) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-5. 🎉 Merged PR [#6](https://github.com/snachodog/tourismgrant.com/pull/6) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+1. 💪 Opened PR [#139](https://github.com/snachodog/medicine-cabinet/pull/139) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+2. 💪 Opened PR [#138](https://github.com/snachodog/medicine-cabinet/pull/138) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+3. ℹ️ Labeled issue [#137](https://github.com/snachodog/medicine-cabinet/issues/137) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+4. ℹ️ Labeled issue [#137](https://github.com/snachodog/medicine-cabinet/issues/137) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+5. ❗ Opened issue [#137](https://github.com/snachodog/medicine-cabinet/issues/137) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
