@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/snachodog/tourismgrant.com/pull/6) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-2. 💪 Opened PR [#6](https://github.com/snachodog/tourismgrant.com/pull/6) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-3. 🎉 Merged PR [#5](https://github.com/snachodog/tourismgrant.com/pull/5) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-4. 💪 Opened PR [#5](https://github.com/snachodog/tourismgrant.com/pull/5) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-5. 🗣 Commented on [#446](https://github.com/hunter-read/grimoire/issues/446#issuecomment-5816528858) in [hunter-read/grimoire](https://github.com/hunter-read/grimoire)
+1. 💪 Opened PR [#7](https://github.com/snachodog/tourismgrant.com/pull/7) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+2. 🎉 Merged PR [#6](https://github.com/snachodog/tourismgrant.com/pull/6) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+3. 💪 Opened PR [#6](https://github.com/snachodog/tourismgrant.com/pull/6) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+4. 🎉 Merged PR [#5](https://github.com/snachodog/tourismgrant.com/pull/5) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+5. 💪 Opened PR [#5](https://github.com/snachodog/tourismgrant.com/pull/5) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
