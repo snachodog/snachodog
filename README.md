@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#510](https://github.com/hunter-read/grimoire/pull/510#issuecomment-5934406889) in [hunter-read/grimoire](https://github.com/hunter-read/grimoire)
-2. 🎉 Merged PR [#142](https://github.com/snachodog/medicine-cabinet/pull/142) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-3. ❗ Opened issue [#503](https://github.com/hunter-read/grimoire/issues/503) in [hunter-read/grimoire](https://github.com/hunter-read/grimoire)
-4. 🗣 Commented on [#141](https://github.com/snachodog/medicine-cabinet/issues/141#issuecomment-5902989141) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-5. 💪 Opened PR [#142](https://github.com/snachodog/medicine-cabinet/pull/142) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+1. 💪 Opened PR [#2](https://github.com/grimoire-codex/docs/pull/2) in [grimoire-codex/docs](https://github.com/grimoire-codex/docs)
+2. 🗣 Commented on [#510](https://github.com/hunter-read/grimoire/pull/510#issuecomment-5934406889) in [hunter-read/grimoire](https://github.com/hunter-read/grimoire)
+3. 🎉 Merged PR [#142](https://github.com/snachodog/medicine-cabinet/pull/142) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+4. ❗ Opened issue [#503](https://github.com/hunter-read/grimoire/issues/503) in [hunter-read/grimoire](https://github.com/hunter-read/grimoire)
+5. 🗣 Commented on [#141](https://github.com/snachodog/medicine-cabinet/issues/141#issuecomment-5902989141) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
