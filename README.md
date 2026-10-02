@@ -42,6 +42,7 @@
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
+- [From District Treasurer Steve Dogiakos](https://www.montanalions.org/2026/10/01/from-district-treasurer-steve-dogiakos-2/)
 - [From District Treasurer Steve Dogiakos](https://www.montanalions.org/2026/09/01/from-district-treasurer-steve-dogiakos/)
 - [Your Club’s Photos Could Recruit Montana’s Next Lions. Send Them Now.](https://www.montanalions.org/2026/09/01/your-clubs-photos-could-recruit-montanas-next-lions-send-them-now/)
 - [Heads Up Treasurers &lpar;and Presidents&rpar;](https://www.montanalions.org/2026/08/14/heads-up-treasurers-and-presidents/)
@@ -51,7 +52,6 @@
 - [Don’t Just Take My Word for It: Read Item 2 in the Official Convention Call](https://www.montanalions.org/2026/05/14/lci-dues-increase-review-item-2-convention-call/)
 - [Don’t Buy That Gift Card: A Warning to Montana Lions](https://www.montanalions.org/2026/04/23/say-no-to-gift-card-scams/)
 - [The Measure of a Lion](https://www.montanalions.org/2026/04/01/the-measure-of-a-lion/)
-- [Is Your Lions Club “Invite Only”? Or Just Invisible?](https://www.montanalions.org/2026/03/01/is-your-lions-club-invite-only-or-just-invisible/)
 - [Planning the Ultimate Montana Road Trip: Yellowstone to Glacier via Choteau](https://tmdinosaurcenter.org/planning-the-ultimate-montana-road-trip-yellowstone-to-glacier-via-choteau/)
 - [🎄 2025 Choteau Chamber Christmas Stroll 🎄](https://choteauchamber.com/%f0%9f%8e%84-2025-choteau-chamber-christmas-stroll-%f0%9f%8e%84/)
 - [Staff Picks: What We’re Reading this Summer – Sci-Fi &amp; Fantasy](https://tmdinosaurcenter.org/staff-books-picks-2025/)
