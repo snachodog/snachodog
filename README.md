@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/grimoire-codex/.github/pull/1) in [grimoire-codex/.github](https://github.com/grimoire-codex/.github)
-2. 💪 Opened PR [#2](https://github.com/grimoire-codex/docs/pull/2) in [grimoire-codex/docs](https://github.com/grimoire-codex/docs)
-3. 🗣 Commented on [#510](https://github.com/hunter-read/grimoire/pull/510#issuecomment-5934406889) in [hunter-read/grimoire](https://github.com/hunter-read/grimoire)
-4. 🎉 Merged PR [#142](https://github.com/snachodog/medicine-cabinet/pull/142) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
-5. ❗ Opened issue [#503](https://github.com/hunter-read/grimoire/issues/503) in [hunter-read/grimoire](https://github.com/hunter-read/grimoire)
+1. 🚀 Published release [v0.3.0](https://github.com/snachodog/merit_badge/releases/tag/v0.3.0) in [snachodog/merit_badge](https://github.com/snachodog/merit_badge)
+2. 🚀 Published release [v0.2.0](https://github.com/snachodog/merit_badge/releases/tag/v0.2.0) in [snachodog/merit_badge](https://github.com/snachodog/merit_badge)
+3. 🚀 Published release [v0.1.0](https://github.com/snachodog/merit_badge/releases/tag/v0.1.0) in [snachodog/merit_badge](https://github.com/snachodog/merit_badge)
+4. 💪 Opened PR [#1](https://github.com/grimoire-codex/.github/pull/1) in [grimoire-codex/.github](https://github.com/grimoire-codex/.github)
+5. 💪 Opened PR [#2](https://github.com/grimoire-codex/docs/pull/2) in [grimoire-codex/docs](https://github.com/grimoire-codex/docs)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
