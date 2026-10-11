@@ -9,7 +9,7 @@
 - 👶🏼 Dad to an awesome kid
 - 🦅 Eagle Scout
 - 🦁 Member of [Choteau Lions Club](https://choteaulions.club) - Treasurer
-- 🦁 '24-'26 [Montana Lions District 37](https://montanalions.org) Treasurer
+- 🦁 '24-'27 [Montana Lions District 37](https://montanalions.org) Treasurer
 - 🦖 President of the [Montana Dinosaur Center](https://tmdinosaurcenter.org/) - [book a fossil dig expedition](https://montanadinosaurdig.com) with code SDTMDC to get 5% off!
 - Former President and Council member of the [Choteau City Council](https://choteaumt.org)
 - Former President of the [Choteau Chamber of Commerce](https://choteauchamber.com)
