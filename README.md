@@ -42,8 +42,8 @@
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
-- [From District Treasurer Steve Dogiakos](https://www.montanalions.org/2026/10/01/from-district-treasurer-steve-dogiakos-2/)
-- [From District Treasurer Steve Dogiakos](https://www.montanalions.org/2026/09/01/from-district-treasurer-steve-dogiakos/)
+- [Club Treasurers: File Your IRS 990-N e-Postcard](https://www.montanalions.org/2026/10/01/from-district-treasurer-steve-dogiakos-2/)
+- [Treasurers: LCI Invoices Exist Only in MyLCI, and Suspension Now Comes at 90 Days](https://www.montanalions.org/2026/09/01/from-district-treasurer-steve-dogiakos/)
 - [Your Club’s Photos Could Recruit Montana’s Next Lions. Send Them Now.](https://www.montanalions.org/2026/09/01/your-clubs-photos-could-recruit-montanas-next-lions-send-them-now/)
 - [Heads Up Treasurers &lpar;and Presidents&rpar;](https://www.montanalions.org/2026/08/14/heads-up-treasurers-and-presidents/)
 - [Club Treasurers: Semiannual Dues Invoices Are Ready for Payment](https://www.montanalions.org/2026/08/01/club-treasurers-semiannual-dues-invoices-are-ready-for-payment/)
