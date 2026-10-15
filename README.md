@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/grimoire-codex/docs/pull/2) in [grimoire-codex/docs](https://github.com/grimoire-codex/docs)
-2. ℹ️ Assigned issue [#1](https://github.com/snachodog/merit_badge/issues/1) in [snachodog/merit_badge](https://github.com/snachodog/merit_badge)
-3. ℹ️ Labeled issue [#1](https://github.com/snachodog/merit_badge/issues/1) in [snachodog/merit_badge](https://github.com/snachodog/merit_badge)
-4. ❗ Opened issue [#1](https://github.com/snachodog/merit_badge/issues/1) in [snachodog/merit_badge](https://github.com/snachodog/merit_badge)
-5. 🚀 Published release [v0.3.0](https://github.com/snachodog/merit_badge/releases/tag/v0.3.0) in [snachodog/merit_badge](https://github.com/snachodog/merit_badge)
+1. 🎉 Merged PR [#10](https://github.com/snachodog/tourismgrant.com/pull/10) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+2. 💪 Opened PR [#10](https://github.com/snachodog/tourismgrant.com/pull/10) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+3. 💪 Opened PR [#9](https://github.com/snachodog/tourismgrant.com/pull/9) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+4. ℹ️ Labeled PR [#148](https://github.com/snachodog/medicine-cabinet/pull/148) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
+5. ℹ️ Labeled PR [#149](https://github.com/snachodog/medicine-cabinet/pull/149) in [snachodog/medicine-cabinet](https://github.com/snachodog/medicine-cabinet)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
