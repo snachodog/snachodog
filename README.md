@@ -34,11 +34,11 @@
 <!-- YOUTUBE:END -->
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/snachodog/tourismgrant.com/pull/12) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-2. ℹ️ Assigned PR [#11](https://github.com/snachodog/tourismgrant.com/pull/11) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-3. 🎉 Merged PR [#11](https://github.com/snachodog/tourismgrant.com/pull/11) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-4. 💪 Opened PR [#11](https://github.com/snachodog/tourismgrant.com/pull/11) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
-5. 🎉 Merged PR [#9](https://github.com/snachodog/tourismgrant.com/pull/9) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+1. 🎉 Merged PR [#12](https://github.com/snachodog/tourismgrant.com/pull/12) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+2. 💪 Opened PR [#12](https://github.com/snachodog/tourismgrant.com/pull/12) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+3. ℹ️ Assigned PR [#11](https://github.com/snachodog/tourismgrant.com/pull/11) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+4. 🎉 Merged PR [#11](https://github.com/snachodog/tourismgrant.com/pull/11) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
+5. 💪 Opened PR [#11](https://github.com/snachodog/tourismgrant.com/pull/11) in [snachodog/tourismgrant.com](https://github.com/snachodog/tourismgrant.com)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
