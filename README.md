@@ -42,6 +42,7 @@
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical PHP Vulnerabilities: Our Customers’ Websites Are Secure](https://dogiakos.com/critical-php-vulnerabilities-our-customers-websites-are-secure/)
 - [Club Treasurers: File Your IRS 990-N e-Postcard](https://www.montanalions.org/2026/10/01/from-district-treasurer-steve-dogiakos-2/)
 - [Treasurers: LCI Invoices Exist Only in MyLCI, and Suspension Now Comes at 90 Days](https://www.montanalions.org/2026/09/01/from-district-treasurer-steve-dogiakos/)
 - [Your Club’s Photos Could Recruit Montana’s Next Lions. Send Them Now.](https://www.montanalions.org/2026/09/01/your-clubs-photos-could-recruit-montanas-next-lions-send-them-now/)
@@ -66,7 +67,6 @@
 - [New Grant for Start-up Ag Producers](https://choteauchamber.com/new-grant-for-start-up-ag-producers/)
 - [Business Focus: Getting Bank &amp; Credit Union Ready](https://choteauchamber.com/business-focus-getting-bank-credit-union-ready/)
 - [PCQI Workshop in Great Falls for Food Manufacturers](https://choteauchamber.com/pcqi-workshop-in-great-falls-for-food-manufacturers/)
-- [Alluvion Mobile Medical Unit – Coming Soon to Choteau!](https://choteauchamber.com/alluvion-mobile-medical-unit-coming-soon-to-choteau/)
 <!-- BLOG-POST-LIST:END -->
 [website]: https://dogiakos.com
 [twitter]: https://twitter.com/snachodog
